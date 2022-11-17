@@ -1,0 +1,11 @@
+target
+.cargo
+chain.json
+bench.txt
+csvdump
+.project
+.idea
+
+test.sh
+debug.sh
+dump/
