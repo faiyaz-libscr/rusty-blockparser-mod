@@ -1,5 +1,12 @@
 # rusty-blockparser
 
+This is modified version of the original rusty-blockparser by @gcarq
+This version is was explicitly used for the experiment mentioned in https://github.com/tintinweb/ecdsa-private-key-recovery/.
+
+Thanks to the Original Devloper gcarq
+
+Also thanks to tintinweb for providing the modified patch code.
+
 [![Build Status](https://travis-ci.org/gcarq/rusty-blockparser.svg?branch=master)](https://travis-ci.org/gcarq/rusty-blockparser) [![Coverage Status](https://coveralls.io/repos/github/gcarq/rusty-blockparser/badge.svg?branch=master)](https://coveralls.io/github/gcarq/rusty-blockparser?branch=master) [![Crates.io](https://img.shields.io/crates/v/rusty-blockparser.svg)](https://crates.io/crates/rusty-blockparser/)
 
 rusty-blockparser is a Bitcoin Blockchain Parser written in **Rust language**.
